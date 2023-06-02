@@ -1,4 +1,4 @@
-# Yellowpad Application
+# Start-P Application
 
 In the project directory, you can run:
 

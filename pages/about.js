@@ -1,11 +1,7 @@
 import React from 'react';
 import NavbarStyleFour from "@/components/_App/NavbarStyleFour";
-import Team from "@/components/Common/Team";
-import FunFactsArea from "@/components/Common/FunFactsArea";
 import Footer from "@/components/_App/Footer";
 import PageBanner from '@/components/Common/PageBanner';
-import FeedbackStyleFour from '@/components/Common/FeedbackStyleFour';
-import Partner from '@/components/MachineLearning/Partner';
 
 const About2 = () => {
     return (
@@ -64,16 +60,6 @@ const About2 = () => {
                     </div>
                 </div>
             </div>
-
-            {/* <Team /> */}
-
-            {/* <FeedbackStyleFour /> */}
-           
-            {/* <FunFactsArea /> */}
-
-            {/* <div className="pb-80">
-                <Partner />
-            </div> */}
             
             <Footer />
         </>

@@ -80,10 +80,10 @@ const NavbarStyleFour = () => {
 
                   <li className="nav-item">
                     <Link
-                      href="/about-2/"
+                      href="/about/"
                       onClick={toggleNavbar}
                       className={`nav-link ${
-                        currentPath == "/about-2/" && "active"
+                        currentPath == "/about/" && "active"
                       }`}
                     >
                       About
